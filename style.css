@@ -39,8 +39,6 @@ ul {
 
 .below-header {
     margin: 0 60px;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 .main-text {
@@ -96,7 +94,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 50px;
+    gap: 30px;
 }
 
 .image-container {
@@ -114,7 +112,7 @@ button {
     font-weight: lighter;
     font-style: italic;
     color: #1f2937;
-    padding: 20px;
+    padding: 70px;
 }
 
 .bold-text {
@@ -125,9 +123,9 @@ button {
     padding: 10px 20px;
     background-color: #3882f6;
     color: #f9faf8;
+    border-radius: 5px;
     margin: 20px;
-    display: flex;
-    flex-direction: row;
+    padding: 20px;
 }
 
 footer {
