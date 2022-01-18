@@ -1,3 +1,7 @@
+* {
+    outline: 1px solid green;
+}
+
 body {
     height: 100%;
     margin: 0;
