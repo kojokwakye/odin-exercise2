@@ -25,8 +25,8 @@ ul {
 }
 
 .header {
-    margin-bottom: 30px;
-    margin: 40px 20px;
+    margin: 0 80px;
+    padding-bottom: 20px;
 }
 
 .header-logo {
@@ -62,13 +62,13 @@ ul {
 }
 
 .below-header-text {
-    width: 300px;
+    width: 500px;
 }
 
 .placeholder-text {
     padding: 20px;
     background-color: grey;
-    width: 200px;
+    width: 300px;
     height: 100px;
     text-align: center;
 }
@@ -87,12 +87,14 @@ button {
     justify-content: center;
     align-items: center;
     margin: 0 80px;
+    padding: 37px 92px;
 }
 
 .information-header {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    margin-bottom: 20px;
 }
 
 .box {
@@ -103,6 +105,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 500px;
     gap: 30px;
 }
 
@@ -132,7 +135,7 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     border-radius: 5px;
-    padding: 20px;
+    padding: 40px;
     margin: 20px 80px;
     display: flex;
     justify-content: space-between;
@@ -141,7 +144,7 @@ button {
 .blue-section {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 footer {
