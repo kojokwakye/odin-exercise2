@@ -2,6 +2,9 @@
     outline: 1px solid green;
 } */
 
+
+/* outline needed for figuring out layout  */
+
 body {
     height: 100%;
     margin: 0;
@@ -26,7 +29,7 @@ ul {
 
 .header {
     margin: 0 80px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
 }
 
 .header-logo {
@@ -124,7 +127,7 @@ button {
     font-weight: lighter;
     font-style: italic;
     color: #1f2937;
-    padding: 70px;
+    padding: 20px 150px;
 }
 
 .bold-text {
@@ -144,7 +147,6 @@ button {
 .blue-section {
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
 }
 
 footer {
