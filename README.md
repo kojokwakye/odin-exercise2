@@ -1,1 +1,1 @@
-[This](https://kojokwakye.github.io/odin-exercise2/) is my attempt to the second assignment on flexbox from the odin project 
+[This](https://kojokwakye.github.io/odin-exercise2/) is my first attempt to the second assignment on flexbox from the odin project 
