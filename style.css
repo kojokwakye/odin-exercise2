@@ -2,6 +2,7 @@
 *::before,
 *::after {
     box-sizing: border-box;
+    outline: 1px solid green;
 }
 
 
@@ -77,8 +78,8 @@ ul {
 .placeholder-text {
     padding: 20px;
     background-color: grey;
-    width: 300px;
-    height: 100px;
+    width: 250px;
+    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
