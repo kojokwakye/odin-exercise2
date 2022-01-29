@@ -139,7 +139,8 @@ button {
 }
 
 .author {
-    color: #5c5757;
+    color: #0a0a0a;
+    font-weight: bold;
     display: flex;
     justify-content: flex-end;
     padding: 10px 0;
