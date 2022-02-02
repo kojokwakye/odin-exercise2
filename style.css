@@ -1,12 +1,6 @@
-*,
-*::before,
-*::after {
+* {
     box-sizing: border-box;
-    /* outline: 1px solid green; */
 }
-
-
-/* above outline needed for figuring out layout  */
 
 body {
     height: 100%;
@@ -81,7 +75,6 @@ ul {
     width: 250px;
     height: 150px;
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
@@ -106,7 +99,7 @@ button {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .box {
@@ -147,10 +140,6 @@ button {
     padding: 10px 0;
 }
 
-.bold-text {
-    font-weight: bold;
-}
-
 .section-four {
     background-color: #3882f6;
     color: #f9faf8;
@@ -159,6 +148,10 @@ button {
     margin: 40px 80px;
     display: flex;
     justify-content: space-between;
+}
+
+.bold-text {
+    font-weight: bold;
 }
 
 .blue-section {
