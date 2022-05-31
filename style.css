@@ -1,169 +1,169 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
 }
 
 .body {
-    flex: 1;
+  flex: 1;
 }
 
 ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    color: #f9faf8;
-    display: flex;
-    align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: #f9faf8;
+  display: flex;
+  align-items: center;
 }
 
 .link {
-    margin: 0 10px;
+  margin: 0 10px;
 }
 
 .header {
-    margin: 0 80px;
-    padding-bottom: 15px;
-    padding-top: 20px;
+  margin: 0 80px;
+  padding-bottom: 15px;
+  padding-top: 20px;
 }
 
 .header-logo {
-    margin-right: auto;
-    font-size: 24px;
+  margin-right: auto;
+  font-size: 24px;
 }
 
 .section-one {
-    background-color: #1f2937;
+  background-color: #1f2937;
 }
 
 .below-header {
-    margin: 40px 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  margin: 40px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .main-text {
-    font-size: 48px;
-    font-weight: bold;
-    color: #f9faf8;
+  font-size: 48px;
+  font-weight: bold;
+  color: #f9faf8;
 }
 
 .subtext,
 .placeholder-text {
-    font-size: 18px;
-    color: #e5e7eb;
+  font-size: 18px;
+  color: #e5e7eb;
 }
 
 .subtext {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .below-header-text {
-    width: 500px;
+  width: 500px;
 }
 
 .placeholder-text {
-    padding: 20px;
-    background-color: grey;
-    width: 250px;
-    height: 150px;
-    display: flex;
-    align-items: center;
+  padding: 20px;
+  background-color: grey;
+  width: 250px;
+  height: 150px;
+  display: flex;
+  align-items: center;
 }
 
 button {
-    background-color: #3882f6;
-    color: #f9faf8;
-    padding: 10px 20px;
-    border: 2px solid white;
-    border-radius: 6px;
+  background-color: #3882f6;
+  color: #f9faf8;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 6px;
 }
 
 .section-two {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 0 80px;
-    padding: 37px 92px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 80px;
+  padding: 37px 92px;
 }
 
 .information-header {
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1f2937;
-    margin-bottom: 15px;
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+  margin-bottom: 15px;
 }
 
 .box {
-    text-align: center;
+  text-align: center;
 }
 
 .cards {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 500px;
-    gap: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  gap: 30px;
 }
 
 .image-container {
-    border: 3px solid #3882f6;
-    border-radius: 10px;
-    height: 120px;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+  height: 120px;
 }
 
 .section-three {
-    background-color: #e5e7eb;
+  background-color: #e5e7eb;
 }
 
 .quote {
-    font-size: 36px;
-    font-weight: lighter;
-    font-style: italic;
-    color: #1f2937;
-    padding: 5px 30px;
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+  padding: 5px 30px;
 }
 
 .author {
-    color: #0a0a0a;
-    font-weight: bold;
-    display: flex;
-    justify-content: flex-end;
-    padding: 10px 0;
+  color: #0a0a0a;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 0;
 }
 
 .section-four {
-    background-color: #3882f6;
-    color: #f9faf8;
-    border-radius: 5px;
-    padding: 40px;
-    margin: 40px 80px;
-    display: flex;
-    justify-content: space-between;
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-radius: 5px;
+  padding: 40px;
+  margin: 40px 80px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .bold-text {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .blue-section {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 footer {
-    height: 30px;
-    background-color: #1f2937;
-    color: #e5e7eb;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  height: 30px;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
