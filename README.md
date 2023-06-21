@@ -1,1 +1,1 @@
-**[This](https://kojokwakye.github.io/odin-exercise2/)** is my first attempt to the [second assignment](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) on flexbox from the odin project  
+**[this](https://kojokwakye.github.io/odin-exercise2/)** is my first attempt to the [second assignment](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) on flexbox from the odin project  
